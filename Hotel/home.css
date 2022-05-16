@@ -1,0 +1,71 @@
+
+body{
+    background-image: linear-gradient(#FAE8E0,#B6E2D3,#D8A7B1);
+    background-size: cover;
+    
+}
+.nav-text{
+    color: black;
+    font-weight: bold;
+}
+.navbar-logo{
+    font-weight: bold;
+}
+.b{
+ box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+}
+.main-heading{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster';
+    font-weight: 100;
+    font-size: 20px;
+}
+.span-class{
+    padding-right: 20px;
+    color:#615e6f;
+}
+.des{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+
+}
+.drop-color{
+    background-color: transparent;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+    padding-bottom: 8px;
+    
+}
+.btn-orange-brand{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+    padding-top: 10px;
+    background-color: transparent;
+}
+.heading{
+    font-family: cursive;
+    font-size: 20px;
+}
+.link{
+    color: black;
+    font-size: 10px;
+    
+}
+.link-p{
+    text-align: start;
+}
+#temp{
+    /* border: black 2px solid; */
+    display: block;
+    margin: auto;
+}
+.login-form{
+    background: #fff;
+    width: 500px;
+    margin: 65px auto;
+    display: -webkit-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    box-shadow:
+}
